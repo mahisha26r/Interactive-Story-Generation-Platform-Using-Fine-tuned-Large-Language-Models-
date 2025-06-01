@@ -30,12 +30,8 @@ This project aims to build a platform for interactive story generation by finetu
 
 ### Website Link: https://scapestory.azurewebsites.net/
 
-### The final unformatted project report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final_Project_Report.pdf
 
-### The final formatted project Report: https://github.com/shaina-12/Interactive-Story-Generation/blob/main/Final%20Deliverables/51_Final%20Report%20Updated.pdf
-
-
-## Contribution of Each Team Member in the Project (Will be Updated as the Project Progresses):
+## Contribution of Each Team Member in the Project :
 ### Janesh Kapoor - Done summarization of research papers, developed the project's website's front-end and added the story generation component.
 ### Mahima Chopra - Done problem formulation, dataset collection part of the project and developed the project's website's front-end.
 ### Shaina Mehta - Done the problem formulation, literature survey, dataset collection, fine-tuning of Gemma2B Instruct model and development of the backend of the website.
